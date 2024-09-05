@@ -11,7 +11,10 @@ Purpose: This additional link loads the theme styles for the Slick Slider, such 
 
 2. jQuery Library
 URL: https://code.jquery.com/jquery-3.6.0.min.js
+
 Purpose: This link loads jQuery, a lightweight JavaScript library that simplifies tasks like DOM manipulation, event handling, and AJAX requests. It's required by the Slick Slider to function properly, as Slick Slider is built on top of jQuery. In your case, jQuery is used to initialize the slider and control its behavior.
-3. Slick Slider JS
+
+4. Slick Slider JS
 URL: https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js
+
 Purpose: This link loads the Slick Slider JavaScript file, which provides the core functionality for the image slider. It defines the sliding behavior, autoplay settings, navigation, and other features of the slider. You use it to initialize the slider in the script section of your code with settings like infinite scrolling, number of slides to show, autoplay, and the speed of autoplay.
